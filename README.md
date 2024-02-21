@@ -1,8 +1,10 @@
 # chocolatey
 Chocolatey é um gerenciador de pacotes para o Windows que permite aos usuários automatizar o processo de instalação, atualização e remoção de software. Ele é semelhante a gerenciadores de pacotes populares em sistemas operacionais baseados em Unix, como apt-get no Ubuntu ou Homebrew no macOS. Com o Chocolatey, os usuários podem instalar facilmente aplicativos e utilitários usando a linha de comando, o que pode economizar tempo e simplificar a manutenção do software em um sistema Windows. Ele é bastante utilizado por desenvolvedores, administradores de sistemas e outros profissionais de TI que precisam configurar e manter várias máquinas Windows.
 
+Como instalar:
 https://chocolatey.org/install#individual
 
+Execute o powerShell como adininistrador no caminho que clonou o repositorio
 choco install --force -y packages.config
 
 
