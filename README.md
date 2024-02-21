@@ -3,6 +3,8 @@ Chocolatey é um gerenciador de pacotes para o Windows que permite aos usuários
 
 https://chocolatey.org/install#individual
 
+choco install --force -y packages.config
+
 
 choco install googlechrome --version 122.0.6261.57 -y
 choco install firefox --version 123.0.0 -y
